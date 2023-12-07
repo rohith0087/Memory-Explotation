@@ -7,8 +7,11 @@ Welcome to the BabyStack problem set! This challenge is part of a series where y
 
 **Challenge Overview:**
 **Objective**: Find and jump to the win function.
+
 **Memory Corruption**: You'll be manipulating the program's memory to achieve the desired outcome.
+
 **Defenses and Stack Layout**: The challenge may have various defenses turned on, and the stack layout might change, adding complexity to the task.
+
 **Flag Retrieval**: Once you've located the win function, use it to obtain the flag.
 
 
