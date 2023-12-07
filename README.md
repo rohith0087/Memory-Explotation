@@ -1,7 +1,7 @@
 # Memory-Explotation
 In this challenge, we will need to find, and jump to a win function. This win function will read in the flag, and print it. Find it! Then use it to get the flag!
 
-##################################./toystack1 Challenge ######################################
+#######################################./toystack1 Challenge ######################################
 Welcome to the BabyStack problem set! This challenge is part of a series where you'll be working with memory corruption techniques. Your goal is to find and jump to a specific "win" function within the program's memory. This win function reads and prints the flag, and your task is to obtain the flag by manipulating the program's memory.
 
 Challenge Overview:
