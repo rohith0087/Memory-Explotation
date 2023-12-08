@@ -15,7 +15,6 @@ Welcome to the BabyStack problem set! This challenge is part of a series where y
 **Flag Retrieval**: Once you've located the win function, use it to obtain the flag.
 
 
-**Feel free to explore and experiment with different memory corruption techniques to solve this challenge. Good luck!**
 
 **Prerequisites:**
 
@@ -24,3 +23,7 @@ Basic knowledge of Python
 Understanding of stack layout
 
 Familiarity with GDB (GNU Debugger)
+
+
+
+**Feel free to explore and experiment with different memory corruption techniques to solve this challenge. Good luck!**
